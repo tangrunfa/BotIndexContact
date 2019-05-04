@@ -8,8 +8,7 @@
 该demo实现的相关相关功能，水平布局显示相关联系人头像和名字。添加每个项目的首字母显示。点击下方索引跳转到对应的联系人部分。下方索引可以随滑动显示并变更布局。由于是demo项目相关编码比较随便。
 
 
-
-https://img-blog.csdnimg.cn/20190504230428632.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI4MzM0NDcz,size_16,color_FFFFFF,t_70
+![底部索引](https://github.com/tangrunfa/BotIndexContact/blob/master/imgs/3.gif)
 
 
 # BotIndexContact
